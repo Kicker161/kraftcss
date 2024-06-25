@@ -16,3 +16,6 @@ npm run dev
  Always use present tense in commit messages
 
 - Vercel creates a unique link for each commit and each branch (showing the latest version of the branch), which you can get from the deployment page. Share the branch link with the team if needed
+ If you consider it ready, mark it as ready for review and ask for a review, or merge it by yourself if you have the permission
+ Always use present tense in commit messages If you consider it ready, mark it as ready for review and ask for a review, or merge it by yourself if you have the permission
+ Always use present tense in commit messages
